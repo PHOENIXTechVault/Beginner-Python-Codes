@@ -2,7 +2,7 @@
 a = "Python"
 
 b = a.upper()
-# print(a ,b)
+# print(b)
 
 #  lower()  transforms the string to lowercase
 c = "PHOENIX"
