@@ -1,6 +1,6 @@
 #################   LOOPS ###########################
 # for loops
-for i in range(10):     #Will print all number between 0 to 20( 20 is excluded )
+for i in range(10):     #Will print all numbers between 0 to 20( 20 is excluded )
     print(i)
 
 for b in range(0, 20, 2):   #Will print all number between 0 to 20( 20 is excluded ) with interval diffrence of two
